@@ -9,7 +9,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, CommandHandler, ContextTypes
 
 # 🔑 Bot Token from Replit Secret
-BOT_TOKEN = os.getenv("8116956908:AAHPwKQ4tZi7m0zaeYbcHpu0V_KMXpd5oNQ")
+BOT_TOKEN = os.getenv("7817416149:AAGTxaGV7OtCxDNdWmXt255TK9hFKwVSEB4")
 
 # ==============================
 # Sample Bearings Database
